@@ -42,6 +42,7 @@ public class ArreglosLP1 {
             for (int j = 0; j < 5; j++) {
                 k = i +j;
                 System.out.println("matriz = [" + i + "]" + "[" + j + "] = " + matriz[i][j]);
+                
             }
         }
     }
